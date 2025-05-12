@@ -1,0 +1,17 @@
+
+
+
+#ifndef HAL_SEEDING_MOTOR_SEEDING_MOTOR_INTERFACING_H_
+#define HAL_SEEDING_MOTOR_SEEDING_MOTOR_INTERFACING_H_
+
+
+
+void SEEDING_MOTOR1_Init();
+void SEEDING_MOTOR1_Open();
+void SEEDING_MOTOR1_Turn_off();
+
+void SEEDING_MOTOR2_Init();
+void SEEDING_MOTOR2_Close();
+void SEEDING_MOTOR2_Turn_off();
+
+#endif 
